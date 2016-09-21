@@ -1,6 +1,7 @@
 {
     "name": "for/eval",
     "description": "this is a test repository",
+    "version": "1.0.0",
     "type": "kohana-module",
     "require": {
         "composer/installers": "~1.0"
